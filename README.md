@@ -93,11 +93,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peewweee&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0b0e17&title_color=e8c766&icon_color=d4af37&text_color=c9cdd6&border_color=2b3040&border_radius=8" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peewweee&layout=compact&langs_count=8&bg_color=0b0e17&title_color=e8c766&icon_color=d4af37&text_color=c9cdd6&border_color=2b3040&border_radius=8" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peewweee&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0b0e17&title_color=f4a7c1&icon_color=ec8fb3&text_color=c9cdd6&border_color=2b3040&border_radius=8" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peewweee&layout=compact&langs_count=8&bg_color=0b0e17&title_color=f4a7c1&icon_color=ec8fb3&text_color=c9cdd6&border_color=2b3040&border_radius=8" alt="Top languages" height="170" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=peewweee&background=0b0e17&border=2b3040&stroke=2b3040&ring=d4af37&fire=e8c766&currStreakNum=f4ecd8&sideNums=f4ecd8&currStreakLabel=e8c766&sideLabels=c9cdd6&dates=8b93a7&border_radius=8" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=peewweee&background=0b0e17&border=2b3040&stroke=2b3040&ring=ec8fb3&fire=f4a7c1&currStreakNum=f4ecd8&sideNums=f4ecd8&currStreakLabel=f4a7c1&sideLabels=c9cdd6&dates=8b93a7&border_radius=8" alt="GitHub streak" />
 </p>
 
 ## 🐍 Contributions

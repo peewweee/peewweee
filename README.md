@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=F4ECD8&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Hello+and+Welcome!+I%27m+Phoebe+%3AD" alt="Hello and Welcome! I'm Phoebe :D" />
 </h1>
 <p align="center">
-  <a href="https://peewee-dev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8C766&center=true&vCenter=true&width=520&lines=Software+%26+AI+Developer;Building+RAG+pipelines+%26+AI+agents;Shipping+with+Next.js+%2B+Spring+Boot;Turning+ideas+into+production+apps" alt="Software &amp; AI Developer" /></a>
+  <img src="assets/subtitle.svg" alt="Software &amp; AI Developer" />
 </p>
 
 <p align="center">

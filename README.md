@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://peewee-dev.vercel.app"><img src="https://img.shields.io/badge/Website-peewee--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/phoeberhone"><img src="https://img.shields.io/badge/LinkedIn-phoeberhone-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://peewee-dev.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/phoeberhone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=peewweee&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile views" />
 </p>
 
